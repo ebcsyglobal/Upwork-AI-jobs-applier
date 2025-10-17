@@ -6,8 +6,8 @@ from dotenv import load_dotenv
 load_dotenv()
 
 if __name__ == "__main__":
-    search_query = "AI agent developer"
-    number_of_jobs = 10
+    search_query = "copywriter"
+    number_of_jobs = 20
     
     scraper = UpworkJobScraper()
     result = asyncio.run(scraper.scrape_upwork_data(search_query, number_of_jobs))
