@@ -1,55 +1,43 @@
 ### Profile Overview
-I am an AI developer with a strong foundation in automation engineering, currently focused on transitioning into software development and AI. My expertise spans machine learning, deep learning, and automation, with a keen interest in creating AI-driven solutions, AI agents and AI automations that streamline businesses and users daily operations. Equipped with both Master's and Engineering degrees in Automation, I bring a structured approach to AI development, driving impactful projects from concept to deployment.
+I am an SEO strategist and content marketing specialist with a strong foundation in search engine optimization, content architecture, and digital growth strategy. My expertise spans semantic SEO, topic clustering, and conversion-focused copywriting, with a proven ability to drive measurable revenue through scalable content ecosystems. I bring over a decade of experience crafting high-performing content across multiple industries and have successfully engineered multi-million-dollar growth campaigns for service-based and eCommerce businesses. My approach combines data-driven optimization with human-centered storytelling to help brands dominate SERPs and convert visibility into lasting results.
 
 ### Key Skills
-- **Programming & Libraries**: Python | JavaScript | FastAPI | Next.js | React.js | LangChain | LangGraph | NumPy | Pandas | TensorFlow | PyTorch  
-- **AI & Machine Learning**: Machine Learning | Deep Learning | AI Agent Development | Multi-Agent Systems | Natural Language Processing | Large Language Models (LLM)  
-- **API & System Integration**: API Development | Platform Integration | Cloud Deployment (AWS, GCP) | Data-Driven Workflows  
-- **Automation & Process Optimization**: AI-Driven Automation | Workflow Optimization | Productivity Enhancement  
-- **SaaS Development**: Experience in developing scalable SaaS applications, ensuring robust architecture and user-centric design.
+- **SEO & Content Strategy**: Semantic SEO | Topic Clustering | Local SEO | Competitive Gap Analysis | On-Page Optimization | Schema Markup
+- **Writing & Marketing**: Conversion Copywriting | Long-Form Content | Brand Storytelling | Technical SEO Writing | Content Funnel Design
+- **Tools & Analytics**: Ahrefs | SEMrush | Screaming Frog | Google Search Console | WordPress | Elementor | Google Analytics
+- **Optimization & Growth**: CRO-Driven UX | Internal Linking Architecture | Topical Authority Development | Revenue-Focused Content Planning
+- **Collaboration & Systems**: Documentation | Brand Voice Alignment | Multi-Client Workflow Optimization
 
 ### Past Experiences
 
-1. **Independent Software and AI Consultant | Self-employed**
-   - Designed and deployed custom chatbots, AI agents, and AI automation systems tailored to client needs.
-   - Developed APIs using FastAPI for Generative AI applications, such as chatbots and automated assistants.
-   - Implemented multi-agent systems utilizing frameworks like CrewAI and LangGraph to enhance functionality and scalability.
-   - Deployed Generative AI applications on AWS and GCP, ensuring efficient cloud-based operations and reliable performance.
+#### SEO Content Specialist | Zavza Seal | Bohemia, NY | January 2025 – Present
+- Engineered over **$2.3M in first-year revenue** through hyper-local service page rewrites and data-backed SEO expansion.
+- Developed and executed a scalable content strategy rooted in **semantic SEO** and **competitive gap analysis**, fueling sustainable growth.
+- Deployed advanced schema and internal linking frameworks, strengthening topical authority and accelerating organic performance.
 
-2. **AI Automation Engineer | Innovatech Solutions**
-   - Led the development of AI-driven automation systems, optimizing processes and reducing operational costs by 20%.
-   - Integrated predictive maintenance models to improve equipment reliability and minimize downtime.
-   - **Duration**: 2019 - 2022
+#### Growth Copywriter | Lean Summits | India | January 2025 – February 2025
+- Increased organic traffic for logistics clients by over **200%** through optimized content architecture and SERP intent mapping.
+- Created SEO-driven articles and marketing collateral aligned with business goals, audience intent, and brand voice consistency.
 
-### Project Portfolio
-1. **Langgraph Email Automation**
-   - Built an AI-powered customer support email automation system with LangChain and LangGraph, improving response accuracy and streamlining workflow.
-   - **Tech Stack**: Python, Langchain, LangGraph
+#### Volunteer Digital Marketing Specialist | IntelliDigest | August 2023 – Present
+- Collaborating with **Dr. Ifeyinwa Kanu, Ph.D.**, to elevate the company’s mission of reducing food waste through strategic SEO and digital storytelling.
+- Spearheading campaigns to raise awareness around sustainable food waste management and circular economy innovation.
 
-2. **Sales Outreach Automation with Langgraph**
-   - Created an automated system for lead analysis and personalized outreach using AI-driven research and content generation, seamlessly integrated with HubSpot CRM.
-   - **Tech Stack**: Python, Langchain, HubSpot API
+#### Content Writer | The HOTH | 2018 – 2022
+- Produced high-quality, SEO-optimized content across diverse industries under strict deadlines.
+- Strengthened client branding through cohesive content strategies and consistent keyword optimization.
 
-3. **AI Sales Agent**
-   - Developed an AI agent for automating customer engagement, product recommendations, consultation bookings, and Stripe payment processing.
-   - **Tech Stack**: Python, Stripe API
-
-4. **AI Voice Assistant**
-   - Designed an AI voice assistant for scheduling, contact management, and online knowledge access via simple voice commands.
-   - **Tech Stack**: Python, Voice Recognition API, NLP
-
-5. **AI Telegram Assistant**
-   - Built a versatile AI assistant accessible through Telegram for managing emails, calendar events, and Notion to-do lists, improving productivity with a team of AI sub-agents.
-   - **Tech Stack**: Python, Telegram API, Notion API
+#### Freelance Writer | Self-Employed | 2014 – 2018
+- Managed multi-client workloads with a focus on quality, punctuality, and measurable content ROI.
+- Specialized in **WordPress content production**, using Elementor and WooCommerce to deliver optimized, client-ready websites.
 
 ### Education
-- Master’s Degree in Automation Engineering
-- Engineering Degree in Automation
+- **Micromasters in Digital Marketing** — Curtin University | GPA: 3.83
+- **High School Diploma** — A.M. Barbe High School
 
 ### Certifications
-- Machine Learning with Python | Coursera
-- Deep Learning Specialization | Andrew Ng
+- Advanced SEO Strategy | HubSpot
+- Content Marketing Foundations | SEMrush Academy
 
 ### Languages
 - English (Fluent)
-- French (Fluent)
