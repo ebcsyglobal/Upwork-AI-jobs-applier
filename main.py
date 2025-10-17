@@ -8,7 +8,7 @@ load_dotenv()
 
 if __name__ == "__main__":
     # Job title to look for
-    job_title = "AI agent Developer"
+    job_title = "Copywriter"
 
     # load the freelancer profile
     profile = read_text_file("./files/profile.md")
